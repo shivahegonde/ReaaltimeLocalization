@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TechGeeks</string>
+    <string-array name="team_members">
+        <item>Shiv</item>
+        <item>Sanket</item>
+        <item>Shubham</item>
+        <item>Saish</item>
+    </string-array>
+</resources>
