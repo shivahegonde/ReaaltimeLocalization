@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back">" ಹಿಂದೆ"</string>
+    <string name="submit">" ಸಲ್ಲಿಸಲು"</string>
+    <string name="password">" ಪಾಸ್ವರ್ಡ್"</string>
+    <string name="name">" ಹೆಸರು"</string>
+    <string name="changelang">" ಭಾಷೆ ಬದಲಾಯಿಸಿ"</string>
+    <string name="app_name">ರಿಯಲ್ಟೈಮ್ ಸ್ಥಳೀಕರಣ</string>
+</resources>

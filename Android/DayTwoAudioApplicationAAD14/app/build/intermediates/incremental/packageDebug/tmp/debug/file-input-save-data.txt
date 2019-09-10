@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Sep 07 17:41:47 IST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Shivkumar Hegonde\\Documents\\AndroidApps\\DayTwoAudioApplicationAAD14\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
